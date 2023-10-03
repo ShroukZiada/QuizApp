@@ -1,0 +1,54 @@
+#quiz,
+#finish,
+#Correct,
+#inCorrect {
+    display: none;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(../image/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+}
+
+form {
+    top: 210px;
+    position: relative;
+}
+
+.text-spec {
+    color: #653383;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+button {
+    cursor: pointer;
+}
+
+.alert {
+    display: none;
+}
+
+input {
+    border-radius: 15px !important;
+    -webkit-border-radius: 15px !important;
+    -moz-border-radius: 15px !important;
+    -ms-border-radius: 15px !important;
+    -o-border-radius: 15px !important;
+}
+
+label {
+    font-size: 25px;
+}
+
+.form-check-input {
+    margin-top: .8rem !important;
+}
+
+.quiz {
+    padding: ;
+}
